@@ -1,7 +1,7 @@
 ### Hi there, I'm Akansha 👋
 
 - 👀 I’m interested in Business Analytics, AI and Machine Learning
-- 🎓 I'm a data science student at [UC San Diego](https://ucsd.edu/) 
+- 🎓 I'm a data science graduate student at [UC San Diego](https://ucsd.edu/) 
 - 👯 I’m looking to collaborate on anything that cover my interests!
 - 🌎 You can reach me at **alalwani@ucsd.edu**
 
